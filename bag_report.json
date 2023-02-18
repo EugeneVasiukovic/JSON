@@ -15,7 +15,7 @@
                             },
       "actual_result":"при_клике_на_икунку_instagram_происходит_редирект_на_instagram.com_аккаунт_capital.com_не_найден",
       "expected_result":"при_клике_на_икунку_instagram_происходит_редирект_на_instagram.com_аккаунт_capital.com_отображается",
-      "attachments":"scrincast.mp4"
+      "attachments":"screencast.mp4"
 
 
 
