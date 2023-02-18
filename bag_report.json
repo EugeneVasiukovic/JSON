@@ -1,7 +1,7 @@
 {     
   
   
-      "number_bag":"001_сapital.com"
+      "number_bag":"001_сapital.com",
       "title":"Footer_редирект_на_соц.сеть_instagram_страница не найдена",
       "severity":"minor",
       "priority":"low",
@@ -12,9 +12,9 @@
                             "2":"проскролить_страницу_до_блока_footer",
                             "3":"в_блоке_соц.сети_кликнуть_на_иконку_instagram",
                             "4":"редерикт_на_сайт_instagram.com_аккаунт_capital.com_не_найден"                
-                            }
+                            },
       "actual_result":"при_клике_на_икунку_instagram_происходит_редирект_на_instagram.com_аккаунт_capital.com_не_найден",
-      "expected_result":"при_клике_на_икунку_instagram_происходит_редирект_на_instagram.com_аккаунт_capital.com_отображается"
+      "expected_result":"при_клике_на_икунку_instagram_происходит_редирект_на_instagram.com_аккаунт_capital.com_отображается",
       "attachments":"scrincast.mp4"
 
 
