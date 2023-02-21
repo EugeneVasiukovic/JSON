@@ -6,7 +6,7 @@
       "severity":"minor",
       "priority":"low",
       "discription":"При_нажатии_иконки_instagram_cтраница_не_найдена",
-      "environment":"Prod_001",
+      "environment":"chroom 109",
       "steps_to_reproduce":{
                             "1":"открыть_сайт_capital.com_локализация_EN",
                             "2":"проскролить_страницу_до_блока_footer",
